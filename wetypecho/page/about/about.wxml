@@ -20,7 +20,7 @@
         <text class="list_text_view">{{item.likes}}</text>
     </view>
 <view class="footerviewwebsite" style="justify-content: left; font-size: 24rpx;">
-    <text>{{aboutstr}}</text>
+    <text>做自己</text>
 </view>
 </view>
 <template is="entry" data="{{...content}}" bindtap="clicklink" />
