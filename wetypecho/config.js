@@ -1,6 +1,6 @@
-var domain = "2012.pro"
-var name = "成都第七帅"
-var API_SECRET = "xxx"
+var domain = "lyp123.com"
+var name = "小明难亡"
+var API_SECRET = "207b0f72c980a96c820c103b54620bf0"
 
 export default {
     getdomain: domain,

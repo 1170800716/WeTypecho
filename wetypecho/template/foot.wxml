@@ -1,8 +1,8 @@
 <template name="foot">
     <view class="footerview">  
-    <text >@2018 成都第七帅</text>
+    <text >@2019 小明难亡</text>
     </view>
     <view class="footerviewwebsite">  
-    <text style>2012.pro</text>
+    <text style>lyp123.com</text>
     </view>
 </template>
